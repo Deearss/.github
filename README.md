@@ -26,26 +26,26 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
 
 <h2>⭐ Key Features</h2>
 
-<table width="100%" cellpadding="0">
+<table border="0">
   <tr>
-    <td width="40"><h2><strong>🔌</strong></h2></td>
-    <td><strong>Universal Hardware Integration</strong><br><sub>Menerima input video streaming dari berbagai perangkat via protokol RTSP/RTMP tanpa mengganti infrastruktur CCTV yang ada.</sub></td>
+    <td width="48" align="center"><h2>🔌</h2></td>
+    <td width="720"><strong>Universal Hardware Integration</strong><br><sub>Menerima input video streaming dari berbagai perangkat via protokol RTSP/RTMP tanpa mengganti infrastruktur CCTV yang ada.</sub></td>
   </tr>
   <tr>
-    <td><h2><strong>📸</strong></h2></td>
-    <td><strong>Smart Snapshot Engine</strong><br><sub>Pengambilan gambar otomatis untuk diproses oleh model AI guna efisiensi komputasi.</sub></td>
+    <td width="48" align="center"><h2>📸</h2></td>
+    <td width="720"><strong>Smart Snapshot Engine</strong><br><sub>Pengambilan gambar otomatis untuk diproses oleh model AI guna efisiensi komputasi.</sub></td>
   </tr>
   <tr>
-    <td><h2><strong>🔐</strong></h2></td>
-    <td><strong>Hybrid Authentication Portal</strong><br><sub>Pintu masuk terpisah untuk publik dan administrator dengan autentikasi yang aman.</sub></td>
+    <td width="48" align="center"><h2>🔐</h2></td>
+    <td width="720"><strong>Hybrid Authentication Portal</strong><br><sub>Pintu masuk terpisah untuk publik dan administrator dengan autentikasi yang aman.</sub></td>
   </tr>
   <tr>
-    <td><h2><strong>📊</strong></h2></td>
-    <td><strong>Dashboard Analytic</strong><br><sub>Bukti pelanggaran diunggah ke IPFS dan hash-nya dicatat permanen di blockchain.</sub></td>
+    <td width="48" align="center"><h2>📊</h2></td>
+    <td width="720"><strong>Dashboard Analytic</strong><br><sub>Bukti pelanggaran diunggah ke IPFS dan hash-nya dicatat permanen di blockchain.</sub></td>
   </tr>
   <tr>
-    <td><h2><strong>🌐</strong></h2></td>
-    <td><strong>Frontend Portal</strong><br><sub>Dibangun dengan React/Next.js untuk pengalaman pengguna yang modern dan responsif.</sub></td>
+    <td width="48" align="center"><h2>🌐</h2></td>
+    <td width="720"><strong>Frontend Portal</strong><br><sub>Dibangun dengan React/Next.js untuk pengalaman pengguna yang modern dan responsif.</sub></td>
   </tr>
 </table>
 
@@ -55,26 +55,26 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
 
 <h2>🏆 Tech Stack</h2>
 
-<table width="100%" cellpadding="0">
+<table border="0">
   <tr>
-    <td width="40"><h2><strong>⚛️</strong></h2></td>
-    <td>
+    <td width="48" align="center"><h2>⚛️</h2></td>
+    <td width="720">
       <strong>Frontend Interaktif</strong>&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/React-Next.js-black?style=flat-square&logo=next.js" height="14"/>
       <br><sub>Dashboard modern dan responsif dengan UI intuitif.</sub>
     </td>
   </tr>
   <tr>
-    <td><h2><strong>⚙️</strong></h2></td>
-    <td>
+    <td width="48" align="center"><h2>⚙️</h2></td>
+    <td width="720">
       <strong>API Terintegrasi</strong>&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square&logo=fastapi" height="14"/>
       <br><sub>Backend scalable dengan performa optimal.</sub>
     </td>
   </tr>
   <tr>
-    <td><h2><strong>💾</strong></h2></td>
-    <td>
+    <td width="48" align="center"><h2>💾</h2></td>
+    <td width="720">
       <strong>Manajemen Data</strong>&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/PostgreSQL-MySQL-336791?style=flat-square&logo=postgresql" height="14"/>
       <br><sub>Database robust untuk reliabilitas tinggi.</sub>
@@ -87,37 +87,37 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
 <br>
 
 <h2>👥 Anggota Tim</h2>
-
-<table width="100%">
+<br>
+<table border="0">
   <colgroup>
-    <col width="21.5%"/>
-    <col width="13%"/>
-    <col width="9%"/>
-    <col width="56.5%"/>
+    <col width="180"/>
+    <col width="110"/>
+    <col width="80"/>
+    <col width="398"/>
   </colgroup>
   <thead>
     <tr>
-      <th align="left" height="30">Nama</th>
-      <th align="left" height="30">NPM</th>
-      <th align="left" height="30">Role</th>
-      <th align="left" height="30">Universitas</th>
+      <th align="left" height="24">Nama</th>
+      <th align="left">NPM</th>
+      <th align="left">Role</th>
+      <th align="left">Universitas</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td height="30">🧑‍💻 <strong>Muhammad Rahman</strong></td>
+      <td height="40">🧑‍💻 <strong>Muhammad Rahman</strong></td>
       <td><code>2310010325</code></td>
       <td><img src="https://img.shields.io/badge/Fullstack-6f42c1?style=flat-square" height="16"/></td>
       <td>Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin</td>
     </tr>
     <tr>
-      <td height="30">⚙️ <strong>Haidir Aditya</strong></td>
+      <td height="40">⚙️ <strong>Haidir Aditya</strong></td>
       <td><code>2410010069</code></td>
       <td><img src="https://img.shields.io/badge/Backend-0d6efd?style=flat-square" height="16"/></td>
       <td>Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin</td>
     </tr>
     <tr>
-      <td height="30">🎨 <strong>Maria Aulia</strong></td>
+      <td height="40">🎨 <strong>Maria Aulia</strong></td>
       <td><code>2310010491</code></td>
       <td><img src="https://img.shields.io/badge/Frontend-e83e8c?style=flat-square" height="16"/></td>
       <td>Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin</td>

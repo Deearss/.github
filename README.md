@@ -102,28 +102,28 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
   <thead>
     <tr>
       <th align="left"  width="300" height="24">Nama</th>
-      <th align="left" width="134">NPM</th>
-      <th align="left" width="100">Role</th>
-      <th align="left" width="550">Universitas</th>
+      <th align="left" width="154">NPM</th>
+      <th align="left" width="154">Role</th>
+      <th align="left" width="476">Universitas</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td height="40">🧑‍💻 <strong>Muhammad Rahman</strong></td>
       <td><code>2310010325</code></td>
-      <td><img src="https://img.shields.io/badge/Fullstack-6f42c1?style=flat-square" height="18"/></td>
+      <td><code>Fullstack</code></td>
       <td>Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin</td>
     </tr>
     <tr>
       <td height="40">⚙️ <strong>Haidir Aditya</strong></td>
       <td><code>2410010069</code></td>
-      <td><img src="https://img.shields.io/badge/Backend-0d6efd?style=flat-square" height="18"/></td>
+      <td><code>Backend</code></td>
       <td>Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin</td>
     </tr>
     <tr>
       <td height="40">🎨 <strong>Maria Aulia</strong></td>
       <td><code>2310010491</code></td>
-      <td><img src="https://img.shields.io/badge/Frontend-e83e8c?style=flat-square" height="18"/></td>
+      <td><code>Frontend</code></td>
       <td>Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin</td>
     </tr>
   </tbody>
